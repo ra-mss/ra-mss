@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spatial Data with QGIS**
 
-- 🌱 I’m currently learning **HTML, CSS and Javascript**
+- 🌱 I’m currently learning **Python and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Data Analysis and Visualization**
 
