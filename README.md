@@ -1,26 +1,26 @@
 
-<h1 align="center">Hi 👋, I'm Ramsés</h1>
-<h3 align="center">A passionate Marine Biologist from México</h3>
-<img align="right" alt="Pelican" width="400" src="https://64.media.tumblr.com/1619c79139f52f2c7e6a55bb53aaebd4/8b217f88056061e5-e4/s640x960/75d98b4c2c96d7dd6a21b4b48d01c5087a84962f.gif">
+<h1 align="center">Hi 👋, I'm Ram</h1>
+<h3 align="center">A passionate Marine Biologist & Data Scientist from México</h3>
+<img align="right" alt="Bird tracking " width="450" src="https://raw.githubusercontent.com/ra-mss/portfolio/main/TrackBirdGif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ra-mss&label=Profile%20views&color=0e75b6&style=flat" alt="ra-mss" /> </p>
 
-- 🔭 I’m currently working on **Object Detection**
+- 🔭 I’m currently working on **Object Detection** 
 
 - 🌱 I’m currently learning **CNN & Deep Learning**
 
-- 👯 I’m looking to collaborate on **Data Analysis, Data Science, BI or DataViz**
+- 👯 I’m looking to collaborate on **Data Science, Data Analysis or DataViz**
 
-- 💬 Ask me about **Spatial Data with R & QGIS**
+- 💬 Ask me about **Seabirds, statistics & ecology**
 
-- 📫 How to reach me **ramperezvz@gmail.com**
+- 📫 How to reach me? Send me an e-mail! **ramperezvz@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramses-pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramses-pv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramses-pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramses-pv" height="30" width="40" /></a> 
 <a href="https://instagram.com/@_datram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_datram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://cran.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" alt="R" width="50" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> <a href="https://arxiv.org/abs/1506.02640" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*bSLNlG7crv-p-m4LVYYk3Q.png" alt="YOLO" width="80" height="40"/> </a> <a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/600px-New_Power_BI_Logo.svg.png?20210102182532" alt="PowerBI" width="40" height="40"/> </a> </p> 
