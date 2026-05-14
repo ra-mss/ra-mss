@@ -8,7 +8,8 @@
 <p align="left">
 
 <b>About me:</b> Background in <b>AI & Data Science</b> with experience <br> in  corporate environments and scientific research, optimizing <br> processes, reducing manual reporting times, and implementing <br> machine learning models.
-</p> <br>
+</p> 
+
 - 🔭 I’m currently working on <b>Object Detection</b> 
 
 - 🌱 I’m currently learning <b>CNN & Deep Learning</b>
@@ -17,5 +18,5 @@
 
 - 💬 Ask me about <b>Seabirds, statistics & ecology</b>
 
-- 📫 How to reach me? Send me an e-mail! <b>ramperezvz@gmail.com</b>
+- 📫 How to reach me? Send me an e-mail! <b><br>    -> ramperezvz@gmail.com <- </b>
 
