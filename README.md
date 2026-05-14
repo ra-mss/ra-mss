@@ -15,10 +15,3 @@
 
 - 📫 How to reach me? Send me an e-mail! **ramperezvz@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramses-pv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramses-pv" height="40" width="40" /></a>
-  
-<a href="https://instagram.com/@eseram_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@eseram_" height="40" width="40" /></a>
-</p>
